@@ -1,0 +1,1 @@
+cpuminer -u walletAddress.workerName -p x -o stratum+tcp://zcoin.mintpond.com:3000 -a edi
